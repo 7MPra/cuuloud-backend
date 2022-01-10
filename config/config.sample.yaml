@@ -1,0 +1,35 @@
+app:
+  lim_min_createroom:
+    3
+db:
+  host:
+    "127.0.0.1"
+  port:
+    "3306"
+  dbname:
+    "cuuloud"
+  user:
+    "cuuloud"
+  pass:
+    "cuuloud" #you should change this
+web:
+  domain:
+    "example.tld"
+  ssl:
+    yes
+smtp:
+  host:
+    "mail.example.tld"
+  port:
+    465
+  address:
+    "cuuloud@example.tld"
+  user:
+    "cuuloud@example.tld"
+  pass:
+    "example"
+redis:
+  host:
+    "127.0.0.1"
+  port:
+    6379

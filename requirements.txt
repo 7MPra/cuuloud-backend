@@ -1,0 +1,14 @@
+flask
+flask_session
+flask_migrate
+flask_socketio
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+python-dotenv
+pyyaml
+pymysql
+bcrypt
+redis
+uwsgi
+gevent
